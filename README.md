@@ -19,3 +19,5 @@ python SimpleCalc.py
 ```
 
 You can use the calculator to perform basic arithmetic operations like addition, subtraction, multiplication, and division. 
+
+![image](https://user-images.githubusercontent.com/77962346/229346085-9fe8b9a3-842e-411f-87cb-ac09b4a7b3d3.png)
