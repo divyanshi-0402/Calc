@@ -15,7 +15,7 @@ To use the calculator, open a terminal or command prompt and navigate to the dir
 Then, run the following command:
 
 ```
-python calculator.py
+python SimpleCalc.py
 ```
 
 You can use the calculator to perform basic arithmetic operations like addition, subtraction, multiplication, and division. 
