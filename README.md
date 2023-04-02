@@ -8,7 +8,6 @@ To use this calculator, you will need to have Python installed on your computer.
 
 ```
 git clone https://github.com/divyanshi-0402/Calc.git
-
 ```
 ## Usage
 
@@ -17,7 +16,6 @@ Then, run the following command:
 
 ```
 python calculator.py
-
 ```
 
 You can use the calculator to perform basic arithmetic operations like addition, subtraction, multiplication, and division. 
